@@ -1,6 +1,6 @@
 # timezone-list
 
-A list of all timezones for my ease of development reference.
+A list of all timezones for the ease of development reference.
 
 Copied from https://stackoverflow.com/questions/38399465/how-to-get-list-of-all-timezones-in-javascript/54500197#54500197
 
